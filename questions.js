@@ -583,5 +583,95 @@ questions = [
             "govt": 10,
             "scty": 10
         }
-    }
+    },
+    {
+        "question": "The death penalty is an acceptable form of punishment for serious crimes.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Free speech should be upheld, even when it may offend some groups or convey controversial ideas.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Corporations should prioritize fair treatment of workers and responsible use of natural resources.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        }
+    },
+    {
+        "question": "Public art and culture projects contribute positively to communities and enhance quality of life.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+    {
+        "question": "Mandatory vaccinations for children should be enforced to protect public health.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 5
+        }
+    },
+    {
+        "question": "Encouraging entrepreneurship and small businesses fosters innovation and job creation.",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        }
+    },
+    {
+        "question": "Strengthening labor unions empowers workers and improves workplace standards.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        }
+    },
+    {
+        "question": "Increased investment in mental health care and addiction treatment can save lives and lower overall healthcare costs.",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+    {
+        "question": "Promoting diversity and inclusion within institutions enhances problem-solving capabilities and creativity.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+    {
+        "question": " Access to high-quality early childhood education that focuses on a well-rounded curriculum of STEM subjects, humanities, arts, and social-emotional learning sets up children for success later in life.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
 ];
