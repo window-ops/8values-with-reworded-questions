@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Government economic intervention to safeguard consumers is be necessary.",
+        "question": "Government economic intervention to safeguard consumers is necessary.",
         "effect": {
             "econ": 10,
             "dipl": 0,
